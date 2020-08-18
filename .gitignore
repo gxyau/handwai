@@ -1,0 +1,10 @@
+# Ignore all conll files
+model/
+# Ignore pycache
+__pycache__/
+# Ignore old model
+old_model/
+# Ignore output, changes everytime you retrain
+output/
+# Ignore archived model
+archive/
